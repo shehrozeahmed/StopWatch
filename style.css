@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+h1{
+    background-color: black;
+    color: teal;
+    border-radius: 50%;
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+}
+button{
+    margin: 8px;
+    background-color: black;
+    color: teal;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 2px solid;
+}
+.stp{
+        width: 350px;
+        height: 300px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+      
+}
